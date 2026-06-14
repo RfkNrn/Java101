@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ManavKasa {
     public static void main(String[] args) {
         double armut = 2.14, elma = 3.67, domates = 1.11, muz = 0.95, patlican = 5.00;
         Scanner input = new Scanner(System.in);

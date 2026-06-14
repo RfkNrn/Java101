@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class KDV {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("KDV'siz fiyatı giriniz: ");

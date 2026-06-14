@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+class HesapMakinesi {
     public static void main(String[] args) {
         int a, b, select;
 

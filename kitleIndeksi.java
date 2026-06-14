@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class kitleIndeksi {
     public static void main(String[] args) {
         double kilo, boy;
         Scanner input = new Scanner(System.in);

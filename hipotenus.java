@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class hipotenus {
     public static void main(String[] args) {
         int a, b;
         Scanner input = new Scanner(System.in);
